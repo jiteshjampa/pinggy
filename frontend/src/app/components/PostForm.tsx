@@ -33,9 +33,9 @@ export default function PostForm({
       );
       reset();
       onPostCreated(data.authCode);
-    } catch (err) {
+    } catch (error) {
       setError(
-        "Failed to create post. Please check your auth code and try again."+ err
+        "Failed to create post. Please check your auth code and try again."+ error
       );
     } finally {
       setIsSubmitting(false);
