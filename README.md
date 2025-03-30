@@ -1,6 +1,4 @@
-Here's the enhanced GitHub README with Postman documentation included:
 
-```markdown
 # 🚀 Next.js + Spring Boot Full-Stack Assignment
 
 <div align="center">
@@ -23,11 +21,7 @@ A full-stack application with:
 ## 📚 Postman Documentation
 
 ### Collection Import
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/REPLACE-WITH-YOUR-COLLECTION-ID)
-
-Or import manually:
-1. Download the [Postman Collection](/postman/Pinggy-Assignment.postman_collection.json)
-2. Import into Postman
+[![Run in Postman](https://imf-gadget.postman.co/workspace/New-Team-Workspace~e7452297-e8da-4a4f-9c00-f2ca6703be5b/collection/36484787-2f4dce94-16e1-401d-96f8-17580970023f?action=share&creator=36484787)
 
 ### API Endpoints
 
@@ -95,8 +89,8 @@ Headers:
 
 | Area         | Technologies                          |
 |--------------|---------------------------------------|
-| **Frontend** | Next.js 14, TypeScript, Tailwind CSS  |
-| **Backend**  | Spring Boot 3, Java 17                |
+| **Frontend** | Next.js 15, TypeScript, Tailwind CSS  |
+| **Backend**  | Spring Boot 3.4.4, Java 17                |
 
 ## 🚀 Getting Started
 
@@ -110,37 +104,6 @@ cd frontend
 yarn dev
 ```
 
-## 📂 Project Structure
-
-```
-postman/
-  Pinggy-Assignment.postman_collection.json # Postman collection
-  Pinggy-Env.postman_environment.json      # Environment variables
-```
 
 ## 🖼️ Screenshots
 
-| Postman Collection | API Response |
-|--------------------|--------------|
-| ![Postman](/screenshots/postman-collection.png) | ![API](/screenshots/api-response.png) |
-
-## 📜 License
-MIT License
-```
-
-**Key Additions:**
-1. Postman badge in the header
-2. Dedicated Postman documentation section with:
-   - One-click "Run in Postman" button
-   - Detailed endpoint documentation
-   - Sample requests/responses
-   - Error code reference
-3. Postman collection files in project structure
-4. Postman-related screenshots
-
-**To complete this setup:**
-1. Export your Postman collection to `/postman` folder
-2. Replace the collection ID in the "Run in Postman" button
-3. Add actual screenshots of your Postman tests
-
-Would you like me to provide a sample Postman collection JSON file or any specific Postman test examples?
