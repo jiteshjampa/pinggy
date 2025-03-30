@@ -14,7 +14,7 @@
 A full-stack application with:
 - **Frontend**: Next.js (TypeScript) with responsive UI
 - **Backend**: Spring Boot REST API with custom authentication
-- **AWS**: Usaed for deployment of backend springboot and used in postman for API testing
+- **AWS**: Used for deployment of backend springboot and used in postman for API testing
 - **Features**: Post creation, listing, and header-based auth
 
 ## 📚 Postman Documentation
