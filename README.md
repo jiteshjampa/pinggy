@@ -20,6 +20,14 @@ A full-stack application with:
 - **AWS**: Used for deployment of backend springboot and used in postman for API testing
 - **Features**: Post creation, listing, and header-based auth
 
+  
+## 🛠️ Tech Stack
+
+| Area         | Technologies                          |
+|--------------|---------------------------------------|
+| **Frontend** | Next.js 15, TypeScript, Tailwind CSS  |
+| **Backend**  | Spring Boot 3.4.4, Java 17                |
+
 ## 📚 Postman Documentation
 
 ### Collection Import
@@ -86,13 +94,6 @@ Headers:
 ### Backend (Spring Boot)
 ✔️ Custom authentication filter  
 ✔️ ThreadLocal storage for request context  
-
-## 🛠️ Tech Stack
-
-| Area         | Technologies                          |
-|--------------|---------------------------------------|
-| **Frontend** | Next.js 15, TypeScript, Tailwind CSS  |
-| **Backend**  | Spring Boot 3.4.4, Java 17                |
 
 ## 🚀 Getting Started
 
