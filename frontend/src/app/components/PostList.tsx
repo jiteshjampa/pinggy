@@ -23,7 +23,7 @@ export default function PostList({ authCode }: { authCode: string }) {
         setPosts(response.data);
       } catch (err) {
         setError(
-          "Failed to fetch posts. Please check your auth code and try again."
+          "Failed to fetch posts. Please check your auth code and try again."+err
         );
       } finally {
         setIsLoading(false);
