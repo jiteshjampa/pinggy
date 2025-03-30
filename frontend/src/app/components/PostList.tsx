@@ -21,9 +21,9 @@ export default function PostList({ authCode }: { authCode: string }) {
           },
         });
         setPosts(response.data);
-      } catch (err) {
+      } catch (error) {
         setError(
-          "Failed to fetch posts. Please check your auth code and try again."+err
+          "Failed to fetch posts. Please check your auth code and try again."+error
         );
       } finally {
         setIsLoading(false);
