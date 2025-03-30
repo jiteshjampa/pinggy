@@ -11,6 +11,9 @@
 
 ## 📝 Overview
 
+-**Name**: J Jitesh Reddy
+-**Email**:jampajitesh@gmail.com
+
 A full-stack application with:
 - **Frontend**: Next.js (TypeScript) with responsive UI
 - **Backend**: Spring Boot REST API with custom authentication
