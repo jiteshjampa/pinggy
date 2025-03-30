@@ -16,12 +16,10 @@ A full-stack application with:
 - **Backend**: Spring Boot REST API with custom authentication
 - **Features**: Post creation, listing, and header-based auth
 
-![App Screenshot](/screenshots/app-preview.png)
-
 ## 📚 Postman Documentation
 
 ### Collection Import
-[![Run in Postman](https://imf-gadget.postman.co/workspace/New-Team-Workspace~e7452297-e8da-4a4f-9c00-f2ca6703be5b/collection/36484787-2f4dce94-16e1-401d-96f8-17580970023f?action=share&creator=36484787)
+[Run in Postman](https://imf-gadget.postman.co/workspace/New-Team-Workspace~e7452297-e8da-4a4f-9c00-f2ca6703be5b/collection/36484787-2f4dce94-16e1-401d-96f8-17580970023f?action=share&creator=36484787)
 
 ### API Endpoints
 
