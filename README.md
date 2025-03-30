@@ -103,5 +103,9 @@ yarn dev
 ```
 
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
+<div align="center">
+  <img src="https://snipboard.io/6cnIgh.jpg" width="700" alt="App Interface"/>
+  <img src="https://snipboard.io/F2TurD.jpg" width="700" alt="API Response"/> 
+</div>
